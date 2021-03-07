@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_neerajsaini_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_neerajsaini_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neerajsaini/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neerajsaini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neeraj-saini/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neerajsaini" height="30" width="40" /></a>
 <a href="https://fb.com/neerajsaini/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neerajsaini" height="30" width="40" /></a>
 <a href="https://instagram.com/_.neerajsaini._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.neerajsaini._" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/neerajsaini_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="neerajsaini_1" height="30" width="40" /></a>
