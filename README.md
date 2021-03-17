@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Saini</h1>
 <h3 align="center">Programmer | Developer | Cyber Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajsaini12560&label=Profile%20views&color=0e75b6&style=flat" alt="neerajsaini12560" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajsaini12560" alt="neerajsaini12560" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_neerajsaini_" target="blank"><img src="https://img.shields.io/twitter/follow/_neerajsaini_?logo=twitter&style=for-the-badge" alt="_neerajsaini_" /></a> </p>
 
 - 🔭 I’m currently working on **Java**
 
